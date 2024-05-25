@@ -16,19 +16,19 @@ I live by a simple motto: "Progress over perfection." It's about moving forward,
 ## 📬 Connect with Me
 
 <a href="https://github.com/A108II">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Logo" />
 </a>
 
 <a href="https://www.linkedin.com/in/a108ii/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Logo" />
 </a>
 
 <a href="https://dev.to/a108ii">
-  <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" alt="Dev.to Logo" />
 </a>
 
 <a href="https://medium.com/@A108II">
-  <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Logo" />
 </a>
 
 ## 💻 Technologies & Tools
