@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋
 
-### Hi there! I'm Ali Sa'adati, Software Engineer, Full-Stack developer
+### Hi there! I'm Ali Sa'adati, Software Engineer | Full-Stack developer
 
 ## My Passion and Drive
 
