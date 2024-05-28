@@ -32,14 +32,4 @@ I live by a simple motto: "Progress over perfection." It's about moving forward,
 </a>
 
 ## 💻 Technologies & Tools
-
-I work with a variety of technologies and tools, including:
-
-- HTML5, CSS3, JavaScript, TypeScript, Git, TailwindCSS
-- React, Redux, Next.js
-- Node.js, Express
-- MongoDB, MySQL
-- Python, Django
-- Java, Spring & Spring Boot
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you'd like to collaborate on a project!
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,docker,kubernetes,aws,java,springboot)](https://skillicons.dev)
