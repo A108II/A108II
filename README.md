@@ -32,13 +32,30 @@ Welcome to My GitHub Profile! 👋
 </div>
 <div align = "center">
   
-<a href="https://www.github.com/A2108II" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="Github"></a>
-<a href="https://www.linkedin.com/in/a1028ii/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-<a href="https://dev.to/a2108ii" target="_blank"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to"></a>
-<a href="https://medium.com/@A82II" target="_blank"><img src="https://simpleicons.org/icons/medium.svg" width="30" height="50" style="margin: 10px;" alt="Medium"></a>
+<div align="center"> 
+  
+  <a href="mailto:aleesduct@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
+  <a href="https://linkedin.com/in/A108II" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+  <a href="https://dev.to/a2108ii" target="_blank">
+     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" /> 
+  </a>
 
+  <a href="https://medium.com/@A82II" target="_blank">
+     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /> 
+  </a>
+</div>
 
-
+<picture>
+  <source srcset="https://your-path-to-icons/medium-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="https://your-path-to-icons/medium-light.svg" media="(prefers-color-scheme: light)">
+  <img src="https://your-path-to-icons/medium-light.svg" alt="Medium Icon" width="30" height="30">
+</picture>
     
 ##  💻 Technologies & Tools
     
