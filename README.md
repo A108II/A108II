@@ -5,7 +5,7 @@ Welcome to My GitHub Profile! 👋
 
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=ADD8E6&center=true&vCenter=true&width=500&height=70&duration=1500&lines=Hey!+👋;+I'm+Ali;+Software+Engineer;Full-Stack+Developer;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=1800&lines=Hey!+👋;+I'm+Ali;+Software+Engineer;Full-Stack+Developer;" />
 
 </h1>
 
@@ -32,10 +32,10 @@ Welcome to My GitHub Profile! 👋
 </div>
 <div align = "center">
   
-[![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/A108II)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/a108ii/)
-[![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/a108ii)
-[<img src="https://simpleicons.org/icons/medium.svg" width="30" height="50;">](https://medium.com/@A8II)
+<a href="https://www.github.com/A2108II" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="Github"></a>
+<a href="https://www.linkedin.com/in/a1028ii/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+<a href="https://dev.to/a2108ii" target="_blank"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to"></a>
+<a href="https://medium.com/@A82II" target="_blank"><img src="https://simpleicons.org/icons/medium.svg" width="30" height="50" style="margin: 10px;" alt="Medium"></a>
 
 
 
