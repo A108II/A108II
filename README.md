@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=A108II.A108II&left_color=blue&right_color=red)
+
 ## Welcome to My GitHub Profile! 👋
 
 ### Hi there! I'm Ali Sa'adati, Software Engineer | Full-Stack developer
