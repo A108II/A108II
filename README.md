@@ -51,15 +51,12 @@ Welcome to My GitHub Profile! 👋
   </a>
 </div>
 
-<picture>
-  <source srcset="https://your-path-to-icons/medium-dark.svg" media="(prefers-color-scheme: dark)">
-  <source srcset="https://your-path-to-icons/medium-light.svg" media="(prefers-color-scheme: light)">
-  <img src="https://your-path-to-icons/medium-light.svg" alt="Medium Icon" width="30" height="30">
-</picture>
-    
+<div align = "center" >
+  
 ##  💻 Technologies & Tools
-    
 </div>
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,javascript,typescript,java,c,cpp,python,react,nodejs,express,mongodb,docker,kubernetes,aws,)]()
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,javascript,typescript,java,c,cpp)]()<br>
+[![My Skills](https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,docker,kubernetes,aws)]()
+
