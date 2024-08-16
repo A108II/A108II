@@ -5,7 +5,7 @@ Welcome to My GitHub Profile! 👋
 
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=1800&lines=Hey!+👋;+I'm+Ali;+Software+Engineer;Full-Stack+Developer;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00008B&center=true&vCenter=true&width=500&height=70&duration=1800&lines=Hey!+👋;+I'm+Ali;+Software+Engineer;Full-Stack+Developer;" />
 
 </h1>
 
@@ -23,7 +23,6 @@ Welcome to My GitHub Profile! 👋
 ## 🌱 What I'm Currently Working On
 </div>
 
-- Software Design & Architecture
 - Full-Stack Projects
 
 <div align = "center">
