@@ -5,18 +5,16 @@ Welcome to My GitHub Profile! 👋
 
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00008B&center=true&vCenter=true&width=500&height=70&duration=1800&lines=Hey!+👋;+I'm+Ali;+Software+Engineer;Full-Stack+Developer;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0000CD&center=true&vCenter=true&width=500&height=70&duration=2890&lines=Software+Engineer;Full-Stack+Developer;" />
 
 </h1>
 
 <div align = "center">
   
-## 🔥 My Passion and Drive
+## Perception
 </div>
 
-- Perception: Tackle the problem with the mindset that a solution is out there waiting to be found.
-
-- Motto: "Progress over perfection."
+- Tackle the problem with the mindset that a solution is out there waiting to be found.
 
 <div align = "center">
   
