@@ -39,13 +39,6 @@ Welcome to My GitHub Profile! 👋
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
-  <a href="https://dev.to/a2108ii" target="_blank">
-     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" /> 
-  </a>
-
-  <a href="https://medium.com/@A82II" target="_blank">
-     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /> 
-  </a>
 </div>
 
 <div align = "center" >
