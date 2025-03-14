@@ -1,4 +1,3 @@
-<img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=A108II.A108II">
 <h1 align="center">
 Welcome to My GitHub Profile! 👋
 </h1>
